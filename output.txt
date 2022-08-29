@@ -1,0 +1,7 @@
+ authorName='Sudeep Nagarkar, authorPenName='xyz
+ ISBN NUmber =  101
+ Title =Few Things left unsaid
+ Description = Novel
+ Price = 160.0
+
+ Process finished with exit code 0
